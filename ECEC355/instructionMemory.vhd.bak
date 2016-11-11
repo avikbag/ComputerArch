@@ -1,0 +1,31 @@
+-- INSTR part A/B
+library ieee;
+use ieee.std_logic_1164.all;
+--use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity instructionMemory is
+port(AddressIn:in std_logic_vector(31 downto 0);
+     machineCode:out std_logic_vector(31 downto 0));
+end instructionMemory;
+
+architecture beh of instructionMemory is
+type instr is array (0 to 6) of std_logic_vector(31 downto 0);
+signal binCode: instr:= (--X"2009FFD8", X"2008002D", X"01095020");
+							X"8d100000",
+							X"8d110004",
+							X"12110002",
+							X"02959820",
+							X"08000006",
+							X"02959822",
+							X"ad130008"
+						);
+signal index: integer:= 0;
+BEGIN
+	process(AddressIn, index)
+	begin	
+		index <= to_integer(unsigned(AddressIn));
+		machineCode <= binCode(index / 4);
+	end process;
+	
+end beh;

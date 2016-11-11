@@ -1,0 +1,102 @@
+C:/Users/avikbag/Documents/ECEC355/register.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/register.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg
+-- Compiling architecture beh of reg
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/branch.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/branch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity branch
+-- Compiling architecture beh of branch
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/MUX32.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/MUX32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX32
+-- Compiling architecture struct of MUX32
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/Control.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/Control.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Control
+-- Compiling architecture V1 of Control
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/SignExtend.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/SignExtend.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture behav of SignExtend
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/ALU.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/ALU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+-- Compiling architecture beh of ALU
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/PC.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/PC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PC
+-- Compiling architecture behav of PC
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUcontrol
+-- Compiling architecture beh of ALUcontrol
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/jump.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/jump.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity jump
+-- Compiling architecture beh of jump
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/main.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/main.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity main
+-- Compiling architecture structure of main
+
+} {} {}} C:/Users/avikbag/Documents/ECEC355/memory.vhd {1 {vcom -work ecec355 -2002 -explicit -stats=none C:/Users/avikbag/Documents/ECEC355/memory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}}

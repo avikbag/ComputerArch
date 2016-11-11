@@ -1,0 +1,506 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/avikbag/Documents
+Ealu
+Z0 w1440609661
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/avikbag/Documents/ECEC355
+Z6 8C:/Users/avikbag/Documents/ECEC355/ALU.vhd
+Z7 FC:/Users/avikbag/Documents/ECEC355/ALU.vhd
+l0
+L6
+VN:?LX`Z>[zjOMTRn6VR>31
+!s100 9_0czJU<K;hhTd@loJbk01
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1440635736
+!i10b 1
+Z10 !s108 1440635735.000000
+Z11 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/ALU.vhd|
+Z12 !s107 C:/Users/avikbag/Documents/ECEC355/ALU.vhd|
+!i113 1
+Z13 o-work ecec355 -2002 -explicit -O0
+Z14 tExplicit 1
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 N:?LX`Z>[zjOMTRn6VR>31
+l17
+L14
+VQKAUSfR?RPEIOZ6@JO]Lm2
+!s100 VPaBi]W5OG4CKigLPghj70
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealucontrol
+Z15 w1440484304
+R3
+R4
+R5
+Z16 8C:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd
+Z17 FC:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd
+l0
+L4
+VGf0jKFmf?0Q5VN:SAX7CU2
+!s100 G]hPJUM>WVE[HLAK5FkdL0
+R8
+32
+Z18 !s110 1440635735
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd|
+Z20 !s107 C:/Users/avikbag/Documents/ECEC355/ALUcontrol.vhd|
+!i113 1
+R13
+R14
+Abeh
+R3
+R4
+DEx4 work 10 alucontrol 0 22 Gf0jKFmf?0Q5VN:SAX7CU2
+l12
+L10
+VUliNZ2Ild7`08:WEB?c8b3
+!s100 UNP28L@==;O46:1ZZ<DP52
+R8
+32
+R18
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Ebranch
+Z21 w1440560275
+R1
+R2
+R3
+R4
+R5
+Z22 8C:/Users/avikbag/Documents/ECEC355/branch.vhd
+Z23 FC:/Users/avikbag/Documents/ECEC355/branch.vhd
+l0
+L6
+VeX9baG7_gRZl:=`XA:R>62
+!s100 g;=C:bDhkCAnP6CmA2FE62
+R8
+32
+R18
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/branch.vhd|
+Z25 !s107 C:/Users/avikbag/Documents/ECEC355/branch.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 6 branch 0 22 eX9baG7_gRZl:=`XA:R>62
+l16
+L13
+VKBM;2A4GcdmY_@RRkj`G@2
+!s100 Ufb@JZV<ePEJ`LieGhmD61
+R8
+32
+R18
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Econtrol
+Z26 w1440605908
+R3
+R4
+R5
+Z27 8C:/Users/avikbag/Documents/ECEC355/Control.vhd
+Z28 FC:/Users/avikbag/Documents/ECEC355/Control.vhd
+l0
+L7
+VGQ`^L[E50BKTz===LZHLY2
+!s100 ><5jzK<]I]j32WBn:70T;0
+R8
+32
+R18
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/Control.vhd|
+Z30 !s107 C:/Users/avikbag/Documents/ECEC355/Control.vhd|
+!i113 1
+R13
+R14
+Av1
+R3
+R4
+DEx4 work 7 control 0 22 GQ`^L[E50BKTz===LZHLY2
+l15
+L14
+V^_kdN[BaPFN4Zm[IMX0@m1
+!s100 l=KoXSAZ9hV:jS53]]cRY3
+R8
+32
+R18
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Einstructionmemory
+Z31 w1440635623
+Z32 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z33 8C:/Users/avikbag/Documents/ECEC355/instructionMemory.vhd
+Z34 FC:/Users/avikbag/Documents/ECEC355/instructionMemory.vhd
+l0
+L7
+VSY<kT?k?6D^RH`CghI8NT3
+!s100 8RUM7]FoV3aGCVkiG3PoZ1
+R8
+32
+R18
+!i10b 1
+R10
+Z35 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/instructionMemory.vhd|
+Z36 !s107 C:/Users/avikbag/Documents/ECEC355/instructionMemory.vhd|
+!i113 1
+R13
+R14
+Abeh
+R32
+R3
+R4
+DEx4 work 17 instructionmemory 0 22 SY<kT?k?6D^RH`CghI8NT3
+l23
+L12
+VWdV]zZ21G]BWnMAD9QM9W3
+!s100 Um1l]2OZ0DmOW:J___6k80
+R8
+32
+R18
+!i10b 1
+R10
+R35
+R36
+!i113 1
+R13
+R14
+Ejump
+Z37 w1440545235
+R1
+R2
+R3
+R4
+R5
+Z38 8C:/Users/avikbag/Documents/ECEC355/jump.vhd
+Z39 FC:/Users/avikbag/Documents/ECEC355/jump.vhd
+l0
+L7
+V6lG7Rlhcc@bMEA2nKVSV00
+!s100 `<`ZYG?@nL2K9:9m>J:QO3
+R8
+32
+R18
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/jump.vhd|
+Z41 !s107 C:/Users/avikbag/Documents/ECEC355/jump.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 4 jump 0 22 6lG7Rlhcc@bMEA2nKVSV00
+l15
+L14
+VF]Q<NaifENFlJT]NPkPO]1
+!s100 n5Fa[0aRX=U5gPWN`@a6F2
+R8
+32
+R18
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Emain
+Z42 w1440550582
+R1
+R2
+R3
+R4
+R5
+Z43 8C:/Users/avikbag/Documents/ECEC355/main.vhd
+Z44 FC:/Users/avikbag/Documents/ECEC355/main.vhd
+l0
+L6
+VF8CboI3fmQJn@NPg4g`_63
+!s100 @L`V0a`B`7eA1U1hkVQzj3
+R8
+32
+R9
+!i10b 1
+Z45 !s108 1440635736.000000
+Z46 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/main.vhd|
+Z47 !s107 C:/Users/avikbag/Documents/ECEC355/main.vhd|
+!i113 1
+R13
+R14
+Astructure
+R1
+R2
+R3
+R4
+DEx4 work 4 main 0 22 F8CboI3fmQJn@NPg4g`_63
+l127
+L12
+V_8b>SVbOlGk6WWz5ccgAd0
+!s100 :AON]ci9JoF5eSUGW:J=n0
+R8
+32
+R9
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R13
+R14
+Ememory
+Z48 w1440613177
+R2
+R1
+R3
+R4
+R5
+Z49 8C:/Users/avikbag/Documents/ECEC355/memory.vhd
+Z50 FC:/Users/avikbag/Documents/ECEC355/memory.vhd
+l0
+L13
+VY@8BFY98ccf=2UE9oT_jP1
+!s100 cF>fe`HN]1]cKCCP_^U982
+R8
+32
+R9
+!i10b 1
+R45
+Z51 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/memory.vhd|
+Z52 !s107 C:/Users/avikbag/Documents/ECEC355/memory.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R1
+R3
+R4
+DEx4 work 6 memory 0 22 Y@8BFY98ccf=2UE9oT_jP1
+l60
+L22
+VLdKKGZ8J=A=K7WJZDo`[51
+!s100 Dfele2kX0ENVZX99<9l>T3
+R8
+32
+R9
+!i10b 1
+R45
+R51
+R52
+!i113 1
+R13
+R14
+Emux32
+Z53 w1440534552
+R3
+R4
+R5
+Z54 8C:/Users/avikbag/Documents/ECEC355/MUX32.vhd
+Z55 FC:/Users/avikbag/Documents/ECEC355/MUX32.vhd
+l0
+L5
+VSRz5@PHjjc@mN`d<hgQWj0
+!s100 A5I]XiLB_8_F??f[_HBTV2
+R8
+32
+R9
+!i10b 1
+R45
+Z56 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/MUX32.vhd|
+Z57 !s107 C:/Users/avikbag/Documents/ECEC355/MUX32.vhd|
+!i113 1
+R13
+R14
+Astruct
+R3
+R4
+Z58 DEx4 work 5 mux32 0 22 SRz5@PHjjc@mN`d<hgQWj0
+l13
+L12
+Z59 VGR:AH4eQegbShK2az0:<22
+Z60 !s100 ZW<enZ=amMAkaFU@iF=1j3
+R8
+32
+R9
+!i10b 1
+R45
+R56
+R57
+!i113 1
+R13
+R14
+Epc
+Z61 w1440526937
+R1
+R2
+R3
+R4
+R5
+Z62 8C:/Users/avikbag/Documents/ECEC355/PC.vhd
+Z63 FC:/Users/avikbag/Documents/ECEC355/PC.vhd
+l0
+L5
+VE<GaBjCdN2:93RG1@zlbR3
+!s100 U31oHkAB[dCJce`>VJZm52
+R8
+32
+R18
+!i10b 1
+R10
+Z64 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/PC.vhd|
+Z65 !s107 C:/Users/avikbag/Documents/ECEC355/PC.vhd|
+!i113 1
+R13
+R14
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 2 pc 0 22 E<GaBjCdN2:93RG1@zlbR3
+l12
+L11
+VAe3TOfKLF=4;fWm[BeGUC0
+!s100 Ue3eHakV2K9QnNU`TXCL93
+R8
+32
+R18
+!i10b 1
+R10
+R64
+R65
+!i113 1
+R13
+R14
+Ereg
+Z66 w1440555309
+R32
+R3
+R4
+R5
+Z67 8C:/Users/avikbag/Documents/ECEC355/register.vhd
+Z68 FC:/Users/avikbag/Documents/ECEC355/register.vhd
+l0
+L7
+VK``E4jE`>2O8c3`?O@?=<1
+!s100 :2i4c`:ak2DN9l6ZdeO1]0
+R8
+32
+R18
+!i10b 1
+R10
+Z69 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/register.vhd|
+Z70 !s107 C:/Users/avikbag/Documents/ECEC355/register.vhd|
+!i113 1
+R13
+R14
+Abeh
+R32
+R3
+R4
+DEx4 work 3 reg 0 22 K``E4jE`>2O8c3`?O@?=<1
+l63
+L17
+V`lC`8LEIWV7jY6hLZCJFR0
+!s100 VRiAL>k^Rf3]z1i]UBS?20
+R8
+32
+R18
+!i10b 1
+R10
+R69
+R70
+!i113 1
+R13
+R14
+Esignextend
+Z71 w1440601712
+R3
+R4
+R5
+Z72 8C:/Users/avikbag/Documents/ECEC355/SignExtend.vhd
+Z73 FC:/Users/avikbag/Documents/ECEC355/SignExtend.vhd
+l0
+L4
+V>[5::TgM9GGh8JLNH>jc_3
+!s100 Z2m`=;i_B?g6MlW8RNi7C2
+R8
+32
+R18
+!i10b 1
+R10
+Z74 !s90 -reportprogress|300|-work|ecec355|-2002|-explicit|-stats=none|C:/Users/avikbag/Documents/ECEC355/SignExtend.vhd|
+Z75 !s107 C:/Users/avikbag/Documents/ECEC355/SignExtend.vhd|
+!i113 1
+R13
+R14
+Abehav
+R3
+R4
+DEx4 work 10 signextend 0 22 >[5::TgM9GGh8JLNH>jc_3
+l10
+L9
+VkbGOW]JUP3U?Jce^>A>@C2
+!s100 V4FIZXo2jnIIVD5a]^D8j3
+R8
+32
+R18
+!i10b 1
+R10
+R74
+R75
+!i113 1
+R13
+R14

@@ -1,0 +1,31 @@
+------------------------------------------------------
+-- ECEC 355 Computer Architecture (Summer 2015)
+-- MIPS Single Cycle Datapath
+-- Program Counter Component
+-- Authors: Avik Bag/Kunal Malik 
+-- Modified:  08/26/2015
+------------------------------------------------------
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+entity PC is
+port(AddressIn:in std_logic_vector(31 downto 0);
+     AddressOut:out std_logic_vector(31 downto 0);
+	ck: in std_logic);
+end PC;
+
+architecture behav of PC is
+begin
+process(AddressIn, ck)
+	begin
+	if ck ='1' and ck'event then
+		if AddressIn = "11111111111111111111111111111111" then 
+			AddressOut <= "00000000000000000000000000000000";
+		else
+  			AddressOut <= AddressIn + "00000000000000000000000000000100";
+  		end if;
+	end if;
+end process;
+end behav;

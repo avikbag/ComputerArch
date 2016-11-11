@@ -1,0 +1,24 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+--use IEEE.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+--use ieee.numeric_std.all;
+entity branch is
+    port (	immediate: in STD_LOGIC_VECTOR (31 downto 0);
+    		pc: in  STD_LOGIC_VECTOR (31 downto 0);
+        	destination: out STD_LOGIC_VECTOR (31 downto 0)
+    );
+end branch;
+
+architecture beh of branch is
+signal temp: STD_LOGIC_VECTOR(31 downto 0);
+--signal res: STD_LOGIC_VECTOR(31 downto 0);
+begin
+	process (pc, immediate, res)
+	begin
+		temp <= immediate(29 downto 0) & "00" + pc;
+		--res <= temp +  ;-- "00000000000000000000000000001000";
+	end process;
+	destination <= temp;
+	
+end beh;
